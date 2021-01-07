@@ -1,0 +1,4 @@
+outs:
+- md5: 1f4903cd48dfb2a1e40bc479333e73e9
+  size: 80
+  path: activity_labels.txt
